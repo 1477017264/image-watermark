@@ -175,7 +175,7 @@
 	</div>
 </template>
 
-<style>
+<style scoped>
 	.el-dialog--center {
 		text-align: center;
 		width: 340px !important;
@@ -189,7 +189,7 @@
 		width: 100%;
 	}
 
-	.el-form-item__content:nth-last-child() {
+	::v-deep .el-form-item__content:nth-last-child() {
 		margin-left: 0 !important;
 	}
 
