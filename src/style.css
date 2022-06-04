@@ -1,0 +1,10 @@
+.el-upload.el-upload--text button {
+	width: 100%;
+}
+
+@media screen and (max-width:420px) {
+	#app {
+		margin: auto;
+		width: 100% !important;
+	}
+}
