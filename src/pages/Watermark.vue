@@ -189,10 +189,6 @@
 		width: 100%;
 	}
 
-/* 	.el-form-item__content:nth-last-child() {
-		margin-left: 0 !important;
-	} */
-
 	.el-form-item__content .el-button {
 		width: 100%;
 	}
