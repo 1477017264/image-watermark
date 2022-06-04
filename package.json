@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cli": "^1.0.1",
     "element-plus": "^2.0.1",
     "html2canvas": "^1.4.1",
     "vue": "^3.2.25"
