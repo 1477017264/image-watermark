@@ -175,7 +175,7 @@
 	</div>
 </template>
 
-<style scoped>
+<style>
 	.el-dialog--center {
 		text-align: center;
 		width: 340px !important;
