@@ -189,7 +189,7 @@
 		width: 100%;
 	}
 
-	::v-deep .el-form-item__content:nth-last-child() {
+	/deep/ .el-form-item__content:nth-last-child() {
 		margin-left: 0 !important;
 	}
 
