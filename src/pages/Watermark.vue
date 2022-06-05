@@ -191,6 +191,7 @@
 
 	.el-form-item__content .el-button {
 		width: 100%;
+		border-radius: 6px !important;
 	}
 
 	.is-guttered {
